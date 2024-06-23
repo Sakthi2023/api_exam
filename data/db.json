@@ -1,0 +1,20 @@
+{
+  "datas": [
+    {
+      "id": "1001",
+      "name": "Priya",
+      "age": "25",
+      "email": "priya@gmail.com",
+      "gender": "Female",
+      "role": "Developer"
+    },
+    {
+      "id": "1002",
+      "name": "Sakthi",
+      "age": "26",
+      "email": "sakthi@gmail.com",
+      "gender": "Female",
+      "role": "Developer"
+    }
+  ]
+}
